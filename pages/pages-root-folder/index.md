@@ -6,12 +6,12 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_jb.jpg
+  image_fullwidth: ../../images/header_unsplash_jb.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Data Science"
+  url: 'http://jazzathoth.github.io/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: "Code, project artifacts, reports, and analysis"
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
