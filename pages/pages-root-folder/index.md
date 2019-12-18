@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: images/header_unsplash_jb.jpg
+  image_fullwidth: header_unsplash_jb.jpg
 widget1:
   title: "Data Science"
   url: 'http://jazzathoth.github.io/blog/'
