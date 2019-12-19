@@ -1,61 +1,40 @@
 ---
 layout: page
 title: "About Me"
-subheadline: "Joe Bender Data Science"
-teaser: "add -teaser-"
+subheadline: ""
+teaser: "Data Scientist and software engineer."
 permalink: "/info/"
 header:
     image_fullwidth: "header_info.jpg"
+
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+## How I got here
 
+Until about a year and a half ago, I was relatively ignorant of the modern data science landscape. About that time
+I was beginning looking into potential employment options for a nearly complete physics degree. I have always been
+someone who like to take a first principals approach. While I tend to be more interested in application than theory,
+I prefer to understand the underlying principals, hence my interest in physics. During my studies, I had developed
+an interest in programming, from the avr and arm processors I used for running experiments.  Looking more seriously
+into the tech world, I discovered that Data Science built on a wide range of the skills I already had, from higher
+math to software engineering and signal processing.
 
-## Features
+I really enjoy working in a cutting edge field like Data Science. Knowing my work will have an impact and having
+the opportunity to advance the state of the art is an appealing prospect.
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+## Education
 
+* Studied Physics at Virginia Commonwealth University
+* Part of the third cohort of Lambda School's Data Science program
 
+## Extra
 
-## I got inspired by...
+* I have a lot of interests and hobbies. They will likely be featured on this site eventually. Art, specifically
+drawing and metalwork are things I do in my spare time (when I have any). All artwork on this site is my own*.
+* I also have two motorcycles I ride and work on sporadically. One is more art project than anything.
+* Recently I've been working on a hifi stereo project, restoring an old amplifier and building speakers. This is mostly an extension of my interest in signal processing.
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+**Note**
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+In case anyone is seeing this before it's complete, there may be a few remaining stock images. Those are not mine.
+I will remove this note once they're all gone.
