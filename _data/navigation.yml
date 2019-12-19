@@ -2,46 +2,19 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "DS Projects"
-  url: "/ds/"
+- title: "Projects"
+  url: "/projects/"
   side: left
   dropdown:
   - title: "Investment Risk Analysis"
-    url: "/ds/nvest_ra/"
+    url: "/projects/nvest_ra/"
   - title: "TESS"
-    url: "/ds/tess"
+    url: "/projects/tess"
+  - title: "Policing"
+    url: "/projects/policing"
+  - title: "Treasure Hunt Game"
+    url: "/projects/maze"
 
-- title: "Header Styles"
-  url: "/headers/"
-  side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
-
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
 
 - title: Blog
   url: "/blog/"

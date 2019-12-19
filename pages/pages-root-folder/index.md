@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_unsplash_jb.jpg
 widget1:
   title: "Data Science"
-  url: 'http://jazzathoth.github.io/design/'
+  url: 'http://jazzathoth.github.io/ds/'
   image: widget-1-302x182.jpg
   text: "Code, project artifacts, reports, and analysis"
 widget2:
