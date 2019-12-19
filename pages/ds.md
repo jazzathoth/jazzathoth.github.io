@@ -7,8 +7,12 @@ header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/ds/"
 ---
+
+
 <ul>
-    {% for post in site.categories.ds %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% for category in site.categories %}
+      {% for post in category %}
+        <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ site.url }}{{ site.baseurl }}{{ post.url }}</a></li>
+      {% endfor %}
     {% endfor %}
 </ul>
