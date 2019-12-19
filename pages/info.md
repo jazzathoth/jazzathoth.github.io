@@ -2,7 +2,7 @@
 layout: page
 title: "About Me"
 subheadline: ""
-teaser: "Data Scientist and software engineer."
+teaser: ""
 permalink: "/info/"
 header:
     image_fullwidth: "header_info.jpg"
