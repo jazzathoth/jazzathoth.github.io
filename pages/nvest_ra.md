@@ -1,17 +1,21 @@
 ---
+
 layout: page-fullwidth
 title:  "Investment Risk Analysis"
 subheadline:  "Research on the use of LSTM interpretability to find market risk factors for securities"
-breadcrumb: true
+
 categories:
     - ds
-permalink: /ds/nvest_ra/
+permalink: "/ds/nvest_ra/"
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:
     thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+
 ---
+
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about in the foundation documentation.
+
 <!--more-->
 <!--
 <div class="row">
