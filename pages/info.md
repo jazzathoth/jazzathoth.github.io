@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "About Me"
 subheadline: ""
 teaser: ""
 permalink: "/info/"
 header:
-    image_fullwidth: "header_info.jpg"
+    image_fullwidth: "header_self_portrait2.jpg"
 
 ---
 
